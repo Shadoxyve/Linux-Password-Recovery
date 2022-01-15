@@ -11,5 +11,5 @@ curl -O https://raw.githubusercontent.com/Shadoxyve/Linux-Password-Recovery/main
 ```
 sudo bash recovery.sh
 ```
-3. Enter the Values Correctly.
+3. Enter the Values Accordingly.
 4. All done! Your Password is Recovered Now , Feel free to Drop a Mail at Shadoxyve@pm.me if there is any error.
