@@ -7,7 +7,7 @@ Make Sure you Run This Script in Live Mode
 ```
 curl -O https://raw.githubusercontent.com/Shadoxyve/Linux-Password-Recovery/main/recovery.sh
 ``` 
-2. Execute the Script and Completes the Installation
+2. Execute the Script.
 ```
 sudo bash recovery.sh
 ```
